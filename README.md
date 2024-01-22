@@ -1,1 +1,1 @@
-My solutions to a couple of prediction/regression problems. Work in progress.
+Problem at hand: New York City taxi trip duration prediction. 

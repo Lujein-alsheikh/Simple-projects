@@ -1,2 +1,5 @@
-nyc_taxi_project.zip
-/nyc_taxi_project/Neighborhood Names GIS
+
+EDA/Neighborhood Names GIS/
+EDA/*.geojson
+EDA/*.csv
+

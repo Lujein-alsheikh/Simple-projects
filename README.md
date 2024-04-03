@@ -2,7 +2,8 @@ Problem at hand: Predict trip durations of taxis in New York City.
 
 <details>
 <summary>Github lesson: Remove large files from previous commits</summary>
-
+</br>
+Problem: I accidentally committed a csv file of data whose size exceeds 100M which is the limit github allows. Next, I moved this file to .gitignore and made another commit. Pushing the changes did not work this time either because the big file is still in the repository history. The solution is to remove it from the previous commits. </br>
 
 [1]: https://github.com/rtyley/bfg-repo-cleaner
 [2]: https://rtyley.github.io/bfg-repo-cleaner/
